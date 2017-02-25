@@ -37,7 +37,7 @@ gem 'mini_magick'
 gem 'letter_opener', group: :development
 gem 'aasm'
 gem 'figaro'
-gem 'fog-aws'
+gem 'fog'
 gem 'airbrake', '~> 5.4'
 
 group :development, :test do
